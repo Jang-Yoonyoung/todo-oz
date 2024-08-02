@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+li{
+  list-style: none;
+}
+
+button{
+  background-color: #a0f1d6 !important;
+  margin: .18em;
+  float: right;
+}
+
+button:hover{
+  background-color: #20a87b !important;
+  color: #fff;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
